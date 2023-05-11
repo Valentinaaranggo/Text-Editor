@@ -27,11 +27,13 @@
  To install all dependencies required, use 'npm i' in the CLI in directory
  ```
   ## Images
-  ![Screenshot](https://github.com/Valentinaaranggo/Text-Editor/blob/Assets/JATE.png)
-  ![Screenshot](https://github.com/Valentinaaranggo/Text-Editor/blob/Assets/PWAJATE.png)
+
+  ![alt text](./Assets/JATE.png)
+  ### Installed App:
+  ![alt text](./Assets/PWAJATE.png)
   
   ## Link 
-  https://note-taker28.herokuapp.com/
+ 
   
   
   ## Contributing
